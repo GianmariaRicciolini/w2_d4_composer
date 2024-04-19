@@ -1,0 +1,6 @@
+{
+    "name": "raggia/w2_d4_composer",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
